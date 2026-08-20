@@ -3,8 +3,6 @@
 ## Overview
 This repository contains my outputs for Activity 2, which focuses on presenting information through visual and infographic designs.
 
----
-
 ## Works Included
 
 ### Work 1: Civil Engineering
